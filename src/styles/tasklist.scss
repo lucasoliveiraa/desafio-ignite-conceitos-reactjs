@@ -87,7 +87,7 @@ section.task-list {
 
           &.completed {
             p {
-              text-decoration:line-through;
+              text-decoration:line-through; // deixa texto linha no meio
               opacity: 0.6;
             }
           }
